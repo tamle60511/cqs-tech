@@ -81,7 +81,7 @@ const News: React.FC<NewsProps> = ({ className }) => {
                 </div>
 
                 <img
-                  src="/api/placeholder/400/300"
+                  src="/images/Material-3.jpg"
                   alt="CNC Machining Center"
                   className="w-full h-full object-cover transition-transform duration-700 hover:scale-105"
                 />
@@ -132,7 +132,7 @@ const News: React.FC<NewsProps> = ({ className }) => {
                 <div className="flex">
                   <div className="flex-shrink-0 mr-4 relative">
                     <img
-                      src="/api/placeholder/120/120"
+                      src="/images/Advanced.jpg"
                       alt="New Technology Application"
                       className="w-24 h-24 object-cover"
                     />
@@ -164,7 +164,7 @@ const News: React.FC<NewsProps> = ({ className }) => {
                 <div className="flex">
                   <div className="flex-shrink-0 mr-4 relative">
                     <img
-                      src="/api/placeholder/120/120"
+                      src="/images/Aluminum.jpg"
                       alt="Corporate Qualification"
                       className="w-24 h-24 object-cover"
                     />
@@ -196,7 +196,7 @@ const News: React.FC<NewsProps> = ({ className }) => {
                 <div className="flex">
                   <div className="flex-shrink-0 mr-4 relative">
                     <img
-                      src="/api/placeholder/120/120"
+                      src="/images/cnc.jpg"
                       alt="Staff Training"
                       className="w-24 h-24 object-cover"
                     />
@@ -228,7 +228,7 @@ const News: React.FC<NewsProps> = ({ className }) => {
                 <div className="flex">
                   <div className="flex-shrink-0 mr-4 relative">
                     <img
-                      src="/api/placeholder/120/120"
+                      src="/images/Material-2.jpg"
                       alt="Industry Exhibition"
                       className="w-24 h-24 object-cover"
                     />

@@ -3,6 +3,7 @@ use App\Http\Controllers\Frontend\AboutController;
 use App\Http\Controllers\Frontend\TechnologiesController;
 use App\Http\Controllers\Frontend\NewsController;
 use App\Http\Controllers\Frontend\ProductsController;
+use App\Http\Controllers\Frontend\ContactController;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
 
@@ -25,7 +26,7 @@ Route::prefix('products')->name('products.')->group(function () {
     Route::get('/gren-energy', [ProductsController::class, 'grenenergy'])->name('gren-energy');
     Route::get('/agricultura', [ProductsController::class, 'agricultura'])->name('agricultura');
 });
-
+Route::get('contact',[ContactController::class, 'contact'] )->name('contact');
 Route::middleware(['auth', 'verified'])->group(function () {
     Route::get('dashboard', function () {
         return Inertia::render('dashboard');

@@ -27,7 +27,7 @@ export default function MetalsSection({ metals }: MetalsSectionProps) {
     {
       name: 'ALUMINUM',
       description: 'Lightweight & High Thermal Conductivity',
-      image: '/images/metals/aluminum.jpg',
+      image: '/images/Material-1.jpg',
       alloyCode: 'A380/ADC12',
       density: '2.7 g/cm³',
       meltPoint: '660°C',
@@ -36,7 +36,7 @@ export default function MetalsSection({ metals }: MetalsSectionProps) {
     {
       name: 'MAGNESIUM',
       description: 'Exceptional Strength-to-Weight Ratio',
-      image: '/images/metals/magnesium.jpg',
+      image: '/images/Material-2.jpg',
       alloyCode: 'AZ91D',
       density: '1.8 g/cm³',
       meltPoint: '650°C',
@@ -45,7 +45,7 @@ export default function MetalsSection({ metals }: MetalsSectionProps) {
     {
       name: 'ZINC',
       description: 'Superior Detail & Surface Finish',
-      image: '/images/metals/zinc.jpg',
+      image: '/images/Material-3.jpg',
       alloyCode: 'ZA-8/ZAMAK 3',
       density: '6.7 g/cm³',
       meltPoint: '420°C',

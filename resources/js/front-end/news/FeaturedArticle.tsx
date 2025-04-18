@@ -149,7 +149,7 @@ const sampleMiniArticles: MiniArticle[] = [
     title: 'Building Resilient Supply Chains in Manufacturing',
     excerpt: 'Learn how modern manufacturers are leveraging technology to create more resilient supply chains that can withstand disruptions and adapt to changing conditions.',
     date: 'September 28, 2023',
-    imageSrc: 'https://images.unsplash.com/photo-1585974738771-84483ffa6aa6?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80',
+    imageSrc: 'https://plus.unsplash.com/premium_photo-1661337152210-70d60c6c9710?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     imageAlt: 'Supply Chain',
     url: '#'
   },

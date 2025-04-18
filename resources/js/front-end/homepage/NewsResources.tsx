@@ -27,21 +27,21 @@ export default function NewsResources({ news }: NewsResourcesProps) {
     {
       type: 'TECHNICAL GUIDE',
       title: 'Aluminum Die Casting Process Optimization',
-      image: '../images/banner.jpg',
+      image: '/images/Aluminum.jpg',
       url: '/resources/technical-guide/process-optimization',
       icon: FileText
     },
     {
       type: 'WHITEPAPER',
       title: 'Advanced Alloy Selection for Automotive Parts',
-      image: '../images/banner.jpg',
+      image: '/images/Advanced.jpg',
       url: '/resources/whitepaper/alloy-selection',
       icon: File
     },
     {
       type: 'VIDEO',
       title: 'CNC Machining: Precision Engineering in Action',
-      image: '../images/banner.jpg',
+      image: '/images/cnc.jpg',
       url: '/resources/video/cnc-machining',
       icon: Video
     }

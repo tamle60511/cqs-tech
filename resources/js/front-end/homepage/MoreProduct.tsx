@@ -16,7 +16,7 @@ const MoreProduct: React.FC = () => {
   const products: Product[] = [
     {
       name: 'Hydraulic Components',
-      image: '/api/placeholder/300/300',
+      image: '/images/Advanced.jpg',
       url: '#',
       code: 'HYD-A124',
       precision: '±0.05mm',
@@ -24,7 +24,7 @@ const MoreProduct: React.FC = () => {
     },
     {
       name: 'Custom Turning & Milling',
-      image: '/api/placeholder/300/300',
+      image: '/images/Aluminum.jpg',
       url: '#',
       code: 'CNC-M218',
       precision: '±0.01mm',
@@ -32,7 +32,7 @@ const MoreProduct: React.FC = () => {
     },
     {
       name: 'Small Model Processing Center',
-      image: '/api/placeholder/300/300',
+      image: '/images/cnc.jpg',
       url: '#',
       code: 'SMP-C312',
       precision: '±0.02mm',
@@ -40,7 +40,7 @@ const MoreProduct: React.FC = () => {
     },
     {
       name: 'Custom Processing Parts',
-      image: '/api/placeholder/300/300',
+      image: '/images/Material-3.jpg',
       url: '#',
       code: 'CPP-X405',
       precision: '±0.03mm',
@@ -48,7 +48,7 @@ const MoreProduct: React.FC = () => {
     },
     {
       name: 'Precision Parts Processing',
-      image: '/api/placeholder/300/300',
+      image: '/images/Material-2.jpg',
       url: '#',
       code: 'PPP-P517',
       precision: '±0.008mm',

@@ -16,11 +16,11 @@ interface CompanyHeroProps {
 const CompanyHero: React.FC<CompanyHeroProps> = ({
   className = '',
   companyName = 'CQS',
-  yearsInBusiness = 25,
-  employeeCount = 1000,
-  clientCount = 50,
-  facilityImageUrl = '/images/aboutcnc.jpg',
-  cncImageUrl = '/images/cnc.jpg',
+  yearsInBusiness = 18,
+  employeeCount = 250,
+  clientCount = 30,
+  facilityImageUrl = '/images/facility.jpg',
+  cncImageUrl = '/images/cnc-machine.jpg',
   industry = 'Automotive & Motorcycle Components',
   location = 'Vietnam',
   facilitySize = '15,000 sq.m'

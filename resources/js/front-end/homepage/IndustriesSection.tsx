@@ -32,35 +32,35 @@ export default function IndustriesSection({ industries }: IndustriesSectionProps
       name: 'AUTOMOTIVE',
       description: 'Precision die-cast components for vehicles, from structural frame parts to high-performance engine components.',
       icon: Car,
-      image: '/images/industries/automotive.jpg',
+      image: '/images/Advanced.jpg',
       url: '/industries/automotive'
     },
     {
       name: 'CONSUMER ELECTRONICS',
       description: 'Lightweight, heat-dissipating aluminum housings and components for modern electronic devices.',
       icon: Smartphone,
-      image: '/images/industries/consumer-electronics.jpg',
+      image: '/images/Aluminum.jpg',
       url: '/industries/consumer-electronics'
     },
     {
       name: 'ENTERPRISE TECHNOLOGY',
       description: 'Critical heat sink components and chassis elements for servers and data infrastructure.',
       icon: Server,
-      image: '/images/industries/enterprise-technology.jpg',
+      image: '/images/cnc.jpg',
       url: '/industries/enterprise-technology'
     },
     {
       name: 'INDUSTRIAL EQUIPMENT',
       description: 'Durable components for machinery, tools, and industrial applications requiring precision tolerances.',
       icon: Wrench,
-      image: '/images/industries/hardware.jpg',
+      image: '/images/Material-1.jpg',
       url: '/industries/hardware'
     },
     {
       name: 'MEDICAL DEVICES',
       description: 'Lightweight, sterilizable aluminum components for medical devices and diagnostic equipment.',
       icon: Stethoscope,
-      image: '/images/industries/medical.jpg',
+      image: '/images/Material-2.jpg',
       url: '/industries/medical'
     }
   ];

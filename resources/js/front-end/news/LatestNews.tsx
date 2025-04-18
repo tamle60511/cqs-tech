@@ -146,7 +146,7 @@ const sampleNewsItems: NewsItem[] = [
     excerpt: 'Our state-of-the-art manufacturing facility expansion has been completed ahead of schedule, increasing our production capacity by 40% and creating 150 new jobs in the local community.',
     category: { name: 'Company', type: 'primary' },
     date: 'October 15, 2023',
-    imageSrc: 'https://images.unsplash.com/photo-1630573502180-26317aabefa6?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80',
+    imageSrc: 'https://plus.unsplash.com/premium_photo-1726797731069-1bf3d41ad62f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     imageAlt: 'Manufacturing Facility',
     url: '#'
   },
